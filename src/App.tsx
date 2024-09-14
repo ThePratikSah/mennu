@@ -62,7 +62,7 @@ function App() {
           <div className="control has-icons-right">
             <input
               style={{ borderWidth: "2px", borderColor: "#e1e1e1" }}
-              className="input is-medium"
+              className="input is-normal"
               type="text"
               placeholder="Search in kulcha land"
             />
@@ -97,7 +97,7 @@ function App() {
         <div className="card-content">
           <div className="media">
             <div className="media-left">
-              <figure className="image is-128x128">
+              <figure className="image is-96x96">
                 <img
                   style={{ borderRadius: "5px" }}
                   src="https://b.zmtcdn.com/data/dish_photos/746/53bfc7d3dd609fe5996f0e2bd1a25746.jpeg?fit=around|130:130&crop=130:130;*,*"
@@ -106,9 +106,9 @@ function App() {
               </figure>
             </div>
             <div className="media-content">
-              <p className="title is-4">Aloo Kulcha</p>
-              <p className="subtitle is-6">₹179</p>
-              <div className="content">
+              <p className="title is-5">Aloo Kulcha</p>
+              <p className="subtitle is-7">₹179</p>
+              <div className="content is-7">
                 Good For One | 1 Aloo Kulcha + Chole + Chutney
               </div>
             </div>
@@ -118,7 +118,7 @@ function App() {
         <div className="card-content">
           <div className="media">
             <div className="media-left">
-              <figure className="image is-128x128">
+              <figure className="image is-96x96">
                 <img
                   style={{ borderRadius: "5px" }}
                   src="https://b.zmtcdn.com/data/dish_photos/3e6/340adc8c32aa4eec54a93fbc921543e6.jpeg?fit=around|130:130&crop=130:130;*,*"
@@ -127,7 +127,7 @@ function App() {
               </figure>
             </div>
             <div className="media-content">
-              <p className="title is-4">Gobi Kulcha Combo</p>
+              <p className="title is-5">Gobi Kulcha Combo</p>
               <p className="subtitle is-6">₹179</p>
               <div className="content">
                 1 Kulcha + Chhole + Onion Imli Chutney
@@ -139,7 +139,7 @@ function App() {
         <div className="card-content">
           <div className="media">
             <div className="media-left">
-              <figure className="image is-128x128">
+              <figure className="image is-96x96">
                 <img
                   style={{ borderRadius: "5px" }}
                   src="https://b.zmtcdn.com/data/dish_photos/716/4badf360f1b816adba5ee917ccc12716.jpeg?fit=around|130:130&crop=130:130;*,*"
@@ -148,7 +148,7 @@ function App() {
               </figure>
             </div>
             <div className="media-content">
-              <p className="title is-4">Mixed Kulcha Combo</p>
+              <p className="title is-5">Mixed Kulcha Combo</p>
               <p className="subtitle is-6">₹179</p>
               <div className="content">
                 Kulcha Stuffed With Aloo And Paneer.1 Kulcha + Chhole + Onion
@@ -163,7 +163,7 @@ function App() {
         <div className="card-content">
           <div className="media">
             <div className="media-left">
-              <figure className="image is-128x128">
+              <figure className="image is-96x96">
                 <img
                   style={{ borderRadius: "5px" }}
                   src="https://b.zmtcdn.com/data/dish_photos/2c1/f7855cb5a9141fa368aa78e9b277e2c1.jpeg?fit=around|130:130&crop=130:130;*,*"
@@ -172,7 +172,7 @@ function App() {
               </figure>
             </div>
             <div className="media-content">
-              <p className="title is-4">Aachari Paneer Tikka</p>
+              <p className="title is-5">Aachari Paneer Tikka</p>
               <p className="subtitle is-6">₹289</p>
               <div className="content">
                 7 Pcs Cubes Of Paneer, Onion And Bell Peppers Are Marinated With
@@ -185,7 +185,7 @@ function App() {
         <div className="card-content">
           <div className="media">
             <div className="media-left">
-              <figure className="image is-128x128">
+              <figure className="image is-96x96">
                 <img
                   style={{ borderRadius: "5px" }}
                   src="https://b.zmtcdn.com/data/dish_photos/763/a424192ae438377aebebf1672c186763.jpeg?fit=around|130:130&crop=130:130;*,*"
@@ -194,7 +194,7 @@ function App() {
               </figure>
             </div>
             <div className="media-content">
-              <p className="title is-4">Paneer Malai Tikka</p>
+              <p className="title is-5">Paneer Malai Tikka</p>
               <p className="subtitle is-6">₹279</p>
               <div className="content">
                 7 Pcs Cubes Of Paneer, Onion And Bell Peppers Are Marinated With
@@ -207,7 +207,7 @@ function App() {
         <div className="card-content">
           <div className="media">
             <div className="media-left">
-              <figure className="image is-128x128">
+              <figure className="image is-96x96">
                 <img
                   style={{ borderRadius: "5px" }}
                   src="https://b.zmtcdn.com/data/dish_photos/572/f50e19167711b5119187a872c6c6a572.jpeg?fit=around|130:130&crop=130:130;*,*"
@@ -216,7 +216,7 @@ function App() {
               </figure>
             </div>
             <div className="media-content">
-              <p className="title is-4">Paneer Tikka</p>
+              <p className="title is-5">Paneer Tikka</p>
               <p className="subtitle is-6">₹179</p>
               <div className="content">
                 7 Pcs Cubes Of Paneer, Onion And Bell Peppers Are Marinated With
